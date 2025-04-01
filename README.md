@@ -17,3 +17,4 @@ pip install onnxruntime-silicon
 # put your image in the same folder as my prog XO
 
 # Hey!
+https://github.com/danielgatis/rembg?tab=readme-ov-file
