@@ -7,10 +7,10 @@ pip install rembg
 ```
 # and 
 ```bash
-#4 Windows user
+# 4 Windows user
 pip install onnxruntime
 
-#4 Cool user (mac)
+# 4 Cool user (mac)
 pip install onnxruntime-silicon
 ```
 
