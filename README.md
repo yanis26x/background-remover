@@ -4,3 +4,6 @@ Remove the background from an image !!!
 
 ```bash
 pip install rembg
+```
+
+# Hey!
